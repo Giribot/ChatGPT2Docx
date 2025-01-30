@@ -15,7 +15,8 @@ Un fichier DOCX distinct pour chaque conversation.
 Les images insérées directement dans les documents (le cas échéant).
 Cet outil est conçu pour organiser automatiquement vos conversations ChatGPT, en améliorant la présentation et la lisibilité des contenus.
 
-===== 
+=======
+
 In English :
 How to use this tool:
 
