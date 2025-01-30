@@ -1,5 +1,7 @@
 # ChatGPT2Docx (fr/eng)
 
+Demo ici: https://huggingface.co/spaces/Ribot/ChaGPT2Docx
+
 En français :
 Comment utiliser cet outil :
 
@@ -25,6 +27,8 @@ Tout est traité en local sur votre ordinateur et vos données ne vont pas sur i
 =======
 
 In English :
+
+Demo Here: https://huggingface.co/spaces/Ribot/ChaGPT2Docx
 
 How to use this tool:
 
