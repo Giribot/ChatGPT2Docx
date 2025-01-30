@@ -20,7 +20,7 @@ Un fichier DOCX distinct pour chaque conversation.
 Les images insérées directement dans les documents (le cas échéant).
 Cet outil est conçu pour organiser automatiquement vos conversations ChatGPT, en améliorant la présentation et la lisibilité des contenus.
 
-Tout est traité en local sur votre ordinateur et ne vont pas sur internet.
+Tout est traité en local sur votre ordinateur et vos données ne vont pas sur internet.
 
 =======
 
@@ -45,4 +45,4 @@ A separate DOCX file for each conversation.
 The images inserted directly into the documents (if any).
 This tool is designed to automatically organize your ChatGPT conversations, improving the presentation and readability of the contents.
 
-Everything is processed locally on your computer and does not go over the internet.
+Everything is processed locally on your computer and your datas does not go over the internet.
